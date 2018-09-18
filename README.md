@@ -7,3 +7,4 @@ week01
 
 week02
 * leap.cpp
+* 計算秒數.cpp
